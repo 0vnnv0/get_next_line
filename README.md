@@ -4,7 +4,7 @@
 
 A C function that reads any valid file line by line.
 
-## Description
+## 📌 Description
 get_next_line is a project from the 42 school curriculum that implements a function to read a line from a file descriptor. This function can be used to read any valid file line by line, optimizing memory usage by reading only one line at a time.
 
 ## Features
