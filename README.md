@@ -12,3 +12,8 @@ get_next_line is a project from the 42 school curriculum that implements a funct
 - Handles multiple file descriptors simultaneously
 - Memory efficient, reading only one line at a time
 - Supports both mandatory and bonus parts of the project
+
+## Bonus Part
+- Uses only one static variable
+- Handles multiple file descriptors simultaneously
+- Can switch between different file descriptors without losing the reading thread of each
